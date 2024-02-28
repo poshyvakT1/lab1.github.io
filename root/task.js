@@ -1,3 +1,4 @@
+console.log("Для використання функції triangle передайте чотири аргументи: triangle(значення1, тип1, значення2, тип2).");
 function triangle(val1, type1, val2, type2) {
     const type = ["leg", "hypotenuse", "adjacent angle", "opposite angle", "angle"];
 
